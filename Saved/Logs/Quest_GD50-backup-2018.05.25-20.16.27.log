@@ -1,0 +1,1655 @@
+﻿Log file open, 05/24/18 13:44:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Quest_GD50
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2028044631) SRandInit(2028044631).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.269679
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.924s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am SCT302-03 (10.128.151.184:0)
+LogHMD: Failed initializing OVRPlugin 1.21.0
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.24-20.44.06:170][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.24-20.44.06:170][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.24-20.44.06:199][  0]LogInit: Computer: SCT302-03
+[2018.05.24-20.44.06:199][  0]LogInit: User: gd50ian
+[2018.05.24-20.44.06:199][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.24-20.44.06:199][  0]LogInit: High frequency timer resolution =3.410073 MHz
+[2018.05.24-20.44.06:200][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.05.24-20.44.06:200][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.24-20.44.06:200][  0]LogMemory: Process Physical Memory: 280.68 MB used, 280.68 MB peak
+[2018.05.24-20.44.06:200][  0]LogMemory: Process Virtual Memory: 277.26 MB used, 277.26 MB peak
+[2018.05.24-20.44.06:200][  0]LogMemory: Physical Memory: 11371.41 MB used,  21312.83 MB free, 32684.24 MB total
+[2018.05.24-20.44.06:200][  0]LogMemory: Virtual Memory: 707.29 MB used,  21312.83 MB free, 134217728.00 MB total
+[2018.05.24-20.44.06:244][  0]LogInit: Using OS detected language (en-US).
+[2018.05.24-20.44.06:244][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.24-20.44.06:248][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.24-20.44.06:677][  0]LogStreaming: Display: Took  0.432s to EndInitTextLocalization.
+[2018.05.24-20.44.06:677][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.24-20.44.06:726][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.24-20.44.06:726][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.24-20.44.06:946][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.24-20.44.06:998][  0]LogD3D11RHI:    0. 'NVIDIA Quadro P4000' (Feature Level 11_0)
+[2018.05.24-20.44.06:998][  0]LogD3D11RHI:       8092/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.24-20.44.06:999][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.24-20.44.06:999][  0]LogD3D11RHI:       0/0/16342 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.24-20.44.06:999][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.24-20.44.07:005][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.24-20.44.07:005][  0]LogD3D11RHI:     GPU DeviceId: 0x1bb1 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.24-20.44.07:005][  0]LogWindows: EnumDisplayDevices:
+[2018.05.24-20.44.07:005][  0]LogWindows:    0. 'NVIDIA Quadro P4000' (P:1 D:1)
+[2018.05.24-20.44.07:005][  0]LogWindows:    1. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.05.24-20.44.07:005][  0]LogWindows:    2. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.05.24-20.44.07:005][  0]LogWindows:    3. 'NVIDIA Quadro P4000' (P:0 D:0)
+[2018.05.24-20.44.07:006][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.05.24-20.44.07:006][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro P4000
+[2018.05.24-20.44.07:006][  0]LogD3D11RHI:   Driver Version: 391.33 (internal:23.21.13.9133, unified:391.33)
+[2018.05.24-20.44.07:006][  0]LogD3D11RHI:      Driver Date: 3-22-2018
+[2018.05.24-20.44.07:006][  0]LogRHI: Texture pool is 5665 MB (70% of 8092 MB)
+[2018.05.24-20.44.07:043][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.24-20.44.07:043][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.24-20.44.07:043][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.24-20.44.07:061][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.24-20.44.07:062][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Intermediate/Shaders/WorkingDirectory/14176/).
+[2018.05.24-20.44.07:062][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gd50ian/AppData/Local/Temp/UnrealShaderWorkingDir/F0B81D7A4F8C49269566DA9BBAE5CBFC/'.
+[2018.05.24-20.44.07:838][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.24-20.44.07:860][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.24-20.44.07:874][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.24-20.44.07:888][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.24-20.44.07:902][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.24-20.44.07:915][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.24-20.44.07:929][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.24-20.44.07:942][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.24-20.44.07:949][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.24-20.44.07:961][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.24-20.44.07:975][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.24-20.44.07:991][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.24-20.44.08:003][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.24-20.44.08:023][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.24-20.44.08:042][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.24-20.44.08:082][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.24-20.44.08:082][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.24-20.44.08:103][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.24-20.44.08:111][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.24-20.44.08:169][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.24-20.44.08:189][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.24-20.44.08:208][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.24-20.44.08:228][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.24-20.44.08:247][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.24-20.44.08:267][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.24-20.44.08:267][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.24-20.44.08:387][  0]LogXGEController: Cleaning working directory: C:/Users/gd50ian/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.24-20.44.08:387][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.24-20.44.08:387][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.24-20.44.08:387][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.24-20.44.09:119][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.24-20.44.09:200][  0]LogDerivedDataCache: Loaded boot cache 0.08s 87MB C:/Users/gd50ian/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.24-20.44.09:200][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/gd50ian/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.24-20.44.09:200][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.24-20.44.09:200][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.24-20.44.09:200][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.24-20.44.09:201][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.24-20.44.09:219][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.24-20.44.09:232][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gd50ian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.24-20.44.09:258][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.24-20.44.09:259][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.24-20.44.09:260][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.24-20.44.09:260][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.24-20.44.09:395][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.05.24-20.44.09:724][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.24-20.44.09:880][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.24-20.44.09:882][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.24-20.44.09:882][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.24-20.44.09:882][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.24-20.44.09:882][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.24-20.44.09:882][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.24-20.44.09:910][  0]LogNetVersion: Quest_GD50 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 405932995)
+[2018.05.24-20.44.10:352][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.069924 seconds
+[2018.05.24-20.44.10:358][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.24-20.44.10:358][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.24-20.44.10:358][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.24-20.44.12:007][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.24-20.44.12:035][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.24-20.44.12:426][  0]SourceControl: Source control is disabled
+[2018.05.24-20.44.13:411][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.24-20.44.13:549][  0]LogOcInput: OculusInput pre-init called
+[2018.05.24-20.44.13:718][  0]LogEngine: Initializing Engine...
+[2018.05.24-20.44.13:719][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.24-20.44.13:721][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.24-20.44.13:721][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.24-20.44.13:995][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.24-20.44.14:015][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.44.14:027][  0]LogInit: FAudioDevice initialized.
+[2018.05.24-20.44.14:110][  0]LogDerivedDataCache: Saved boot cache 0.08s 87MB C:/Users/gd50ian/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.24-20.44.14:123][  0]LogInit: Texture streaming: Enabled
+[2018.05.24-20.44.14:143][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.24-20.44.14:156][  0]LogInit: Transaction tracking system initialized
+[2018.05.24-20.44.14:176][  0]BlueprintLog: New page: Editor Load
+[2018.05.24-20.44.14:419][  0]LocalizationService: Localization service is disabled
+[2018.05.24-20.44.14:509][  0]LogConsoleResponse: Display: 
+[2018.05.24-20.44.14:639][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.24-20.44.14:639][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.24-20.44.14:639][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.24-20.44.14:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.24-20.44.14:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.24-20.44.14:964][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/' took 0.05s
+[2018.05.24-20.44.15:057][  0]Cmd: MAP LOAD FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Assets.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.24-20.44.15:057][  0]LightingResults: New page: Lighting Build
+[2018.05.24-20.44.15:067][  0]MapCheck: New page: Map Check
+[2018.05.24-20.44.15:068][  0]LightingResults: New page: Lighting Build
+[2018.05.24-20.44.15:595][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_PatrolTypes.Enum_PatrolTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.15:604][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_UpdateHealth.Enum_UpdateHealth' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.15:606][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_InventoryItemType.Enum_InventoryItemType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.15:617][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_ControlState.Enum_ControlState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.15:622][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_AIState.Enum_AIState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.15:629][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_Role.Enum_Role' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.15:919][  0]LogBlueprint: Warning: [Compiler Juno_AnimBlueprint] Node  Transform (Modify) Bone - Bone: Character1_Hips  uses potentially thread-unsafe call  Get Mesh . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.24-20.44.15:919][  0]LogBlueprint: Warning: [Compiler Juno_AnimBlueprint] Node  Transform (Modify) Bone - Bone: Character1_Hips  uses potentially thread-unsafe call  Get Mesh . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.24-20.44.15:919][  0]LogBlueprint: Warning: [Compiler Juno_AnimBlueprint] Node  Transform (Modify) Bone - Bone: Character1_Hips  uses potentially thread-unsafe call  Get Mesh . Disable threaded update or use a thread-safe call. Function may need BlueprintThreadSafe metadata adding.
+[2018.05.24-20.44.15:925][  0]LogBlueprint: Warning: [Compiler Juno_AnimBlueprint] [0012.78] Compile of Juno_AnimBlueprint successful, but with 3 Warning(s) [in 351 ms] (/Game/Animation/Juno_AnimBlueprint.Juno_AnimBlueprint)
+[2018.05.24-20.44.16:089][  0]LogBlueprint: Warning: [Compiler BTT_Patrol] ProjectPointToNavigation_DEPRECATED  is deprecated; This version of ProjectPointToNavigation is deprecated. Please use the new version
+[2018.05.24-20.44.16:097][  0]LogBlueprint: Warning: [Compiler BTT_Patrol] [0012.95] Compile of BTT_Patrol successful, but with 1 Warning(s) [in 13 ms] (/Game/AI/BTT_Patrol.BTT_Patrol)
+[2018.05.24-20.44.17:833][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_SpawnerTypes.Enum_SpawnerTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.17:976][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_PickupTypes.Enum_PickupTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.17:977][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_PotionAffectTypes.Enum_PotionAffectTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.18:128][  0]LogBlueprint: Warning: [Compiler QuestLookAtTrigger] Clear Timer by Handle  is deprecated; Use Clear and Invalidate Timer by Handle. Note: you no longer need to reset your handle yourself after switching to the new function.
+[2018.05.24-20.44.18:132][  0]LogBlueprint: Warning: [Compiler QuestLookAtTrigger] [0014.98] Compile of QuestLookAtTrigger successful, but with 1 Warning(s) [in 11 ms] (/Game/Blueprints/Ingredients/QuestLookAtTrigger.QuestLookAtTrigger)
+[2018.05.24-20.44.20:519][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.584738ms] /Game/Characters/HumanWarrior/Meshes/HumanWarrior_SkeletalMesh.HumanWarrior_SkeletalMesh
+[2018.05.24-20.44.20:544][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.524329ms] /Game/Characters/HumanArcher/Meshes/HumanArcher_SkeletalMesh.HumanArcher_SkeletalMesh
+[2018.05.24-20.44.20:567][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.566850ms] /Game/Characters/DemonImp/Meshes/DemonImp_SkeletalMesh.DemonImp_SkeletalMesh
+[2018.05.24-20.44.20:604][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.517584ms] /Game/Characters/SkeletonArcher/Meshes/SkeletonArcher_SkeletalMesh.SkeletonArcher_SkeletalMesh
+[2018.05.24-20.44.20:628][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.389434ms] /Game/Characters/MiniDragon/Meshes/MiniDragon_SkeletalMesh.MiniDragon_SkeletalMesh
+[2018.05.24-20.44.20:650][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.541631ms] /Game/Characters/SkeletonMage/Meshes/SkeletonMage_SkeletalMesh.SkeletonMage_SkeletalMesh
+[2018.05.24-20.44.20:678][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalEnter)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalExit)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalEnter_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (Unknown sequence)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalExit_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalEnter)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalExit)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalEnter_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalExit_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalEnter)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Game/UI/UMG/QuestUMG_IngameHUD (JournalExit)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalEnter_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.20:679][  0]LogMovieScene: Warning: Legacy data detected in sequence '/Engine/Transient (JournalExit_INST)'. This will cause deterministic cooking issues. Please resave the package.
+[2018.05.24-20.44.22:188][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_AcquisitionType.Enum_AcquisitionType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.22:188][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_Standing.Enum_Standing' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.22:188][  0]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_Faction.Enum_Faction' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.22:225][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.426384ms] /Game/Characters/HumanWorker/Meshes/HumanWorker_SkeletalMesh.HumanWorker_SkeletalMesh
+[2018.05.24-20.44.22:297][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.799103ms] /Game/Characters/Juno/Meshes/Juno_SkeletalMesh.Juno_SkeletalMesh
+[2018.05.24-20.44.22:391][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_MarkerType.Enum_MarkerType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.22:446][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.516411ms] /Game/Characters/DemonGrunt/Meshes/DemonGrunt_SkeletalMesh.DemonGrunt_SkeletalMesh
+[2018.05.24-20.44.22:447][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.406736ms] /Game/Characters/MicroDemon/Meshes/MicroDemon_SkeletalMesh.MicroDemon_SkeletalMesh
+[2018.05.24-20.44.22:525][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.431076ms] /Game/Characters/MicroDragon/Meshes/MicroDragon_SkeletalMesh.MicroDragon_SkeletalMesh
+[2018.05.24-20.44.22:628][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.307032ms] /Game/Characters/AnimalCow/Meshes/AnimalCow_SkeletalMesh.AnimalCow_SkeletalMesh
+[2018.05.24-20.44.22:641][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.492072ms] /Game/Characters/ZombieFat/Meshes/ZombieFat_SkeletalMesh.ZombieFat_SkeletalMesh
+[2018.05.24-20.44.22:654][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.483567ms] /Game/Characters/AnimalCat/Meshes/AnimalCat_SkeletalMesh.AnimalCat_SkeletalMesh
+[2018.05.24-20.44.22:722][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.527848ms] /Game/Characters/DemonBomb/Meshes/DemonBomb_SkeletalMesh.DemonBomb_SkeletalMesh
+[2018.05.24-20.44.22:740][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.445738ms] /Game/Characters/AnimalRooster/Meshes/AnimalRooster_SkeletalMesh.AnimalRooster_SkeletalMesh
+[2018.05.24-20.44.22:752][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.424918ms] /Game/Characters/AnimalPig/Meshes/AnimalPig_SkeletalMesh.AnimalPig_SkeletalMesh
+[2018.05.24-20.44.22:786][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.573008ms] /Game/Characters/DemonFat/Meshes/DemonFat_SkeletalMesh.DemonFat_SkeletalMesh
+[2018.05.24-20.44.22:809][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.841917ms] /Game/Characters/DemonBoss/Meshes/DemonBoss_SkeletalMesh.DemonBoss_SkeletalMesh
+[2018.05.24-20.44.22:836][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.088246ms] /Game/Characters/SkeletonKing/Meshes/SkeletonKing_SkeletalMesh.SkeletonKing_SkeletalMesh
+[2018.05.24-20.44.22:861][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.826375ms] /Game/Characters/SkeletonGrunt/Meshes/SkeletonGrunt_SkeletalMesh.SkeletonGrunt_SkeletalMesh
+[2018.05.24-20.44.22:868][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.529901ms] /Game/Characters/ZombieCommoner/Meshes/ZombieCommoner_SkeletalMesh.ZombieCommoner_SkeletalMesh
+[2018.05.24-20.44.22:893][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.770072ms] /Game/Characters/ZombieBoss/Meshes/ZombieBoss_SkeletalMesh.ZombieBoss_SkeletalMesh
+[2018.05.24-20.44.22:920][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.652772ms] /Game/Characters/SkeletonSwordsman/Meshes/SkeletonSwordsman_SkeletalMesh.SkeletonSwordsman_SkeletalMesh
+[2018.05.24-20.44.22:988][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.566850ms] /Game/Characters/ZombieSnapper/Meshes/ZombieSnapper_SkeletalMesh.ZombieSnapper_SkeletalMesh
+[2018.05.24-20.44.23:016][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.663036ms] /Game/Characters/ZombieMurderer/Meshes/ZombieMurderer_SkeletalMesh.ZombieMurderer_SkeletalMesh
+[2018.05.24-20.44.23:041][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_PotionAmountTypes.Enum_PotionAmountTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.23:042][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_KeyType.Enum_KeyType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.23:134][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_ChestTypes.Enum_ChestTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.23:337][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_DungeonDoorType.Enum_DungeonDoorType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.23:533][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_MayanDoorTypes.Enum_MayanDoorTypes' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.23:596][  0]LogClass: Warning: Enum '/Game/Blueprints/Ingredients/Enum_MovingLiquidType.Enum_MovingLiquidType' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.44.24:119][  0]LogAIModule: Creating AISystem for world Assets
+[2018.05.24-20.44.24:141][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview36_2352.NODE_AddStaticMeshComponent-0_916' 
+[2018.05.24-20.44.24:141][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview36_2352.NODE_AddStaticMeshComponent-0_917' 
+[2018.05.24-20.44.24:145][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview33_1770.NODE_AddStaticMeshComponent-0_969' 
+[2018.05.24-20.44.24:156][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview26.NODE_AddStaticMeshComponent-0_1066' 
+[2018.05.24-20.44.24:156][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview26.NODE_AddStaticMeshComponent-0_1067' 
+[2018.05.24-20.44.24:160][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview23.NODE_AddStaticMeshComponent-0_1109' 
+[2018.05.24-20.44.24:204][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview46.NODE_AddStaticMeshComponent-0_1455' 
+[2018.05.24-20.44.24:205][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview46.NODE_AddStaticMeshComponent-0_1460' 
+[2018.05.24-20.44.24:292][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview36_2352.NODE_AddStaticMeshComponent-0_121' 
+[2018.05.24-20.44.24:292][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview36_2352.NODE_AddStaticMeshComponent-0_122' 
+[2018.05.24-20.44.24:311][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview33_1770.NODE_AddStaticMeshComponent-0_174' 
+[2018.05.24-20.44.24:354][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview26.NODE_AddStaticMeshComponent-0_271' 
+[2018.05.24-20.44.24:354][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview26.NODE_AddStaticMeshComponent-0_272' 
+[2018.05.24-20.44.24:365][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'v_staticMesh' of length 15 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:365][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'v_meshStartRotation' of length 15 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:365][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'v_manualLocation' of length 15 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:366][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'v_staticMesh' of length 15 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:372][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview23.NODE_AddStaticMeshComponent-0_314' 
+[2018.05.24-20.44.24:375][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 2 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:375][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 3 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:375][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 4 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:376][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 5 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:376][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 6 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:376][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 7 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:377][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 8 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:377][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 9 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:377][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 10 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:377][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 11 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:378][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 12 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:378][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 13 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:378][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 14 from array 'v_manualLocation' of length 2 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:408][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'v_staticMesh' of length 15 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:408][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'v_meshStartRotation' of length 15 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:408][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'v_manualLocation' of length 15 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:409][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'v_staticMesh' of length 15 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:459][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 15 from array 'v_meshStartRotation' of length 15 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:459][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 16 from array 'v_meshStartRotation' of length 15 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:459][  0]LogScriptCore: Warning: Script Msg: Attempted to access index 17 from array 'v_meshStartRotation' of length 15 in '/Game/Blueprints/Tools/BP_meshesPreview.BP_meshesPreview_C'!
+[2018.05.24-20.44.24:508][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview46.NODE_AddStaticMeshComponent-0_660' 
+[2018.05.24-20.44.24:508][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Assets.Assets:PersistentLevel.BP_meshesPreview46.NODE_AddStaticMeshComponent-0_665' 
+[2018.05.24-20.44.24:560][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.24-20.44.24:683][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.24-20.44.24:958][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 275.482ms to complete.
+[2018.05.24-20.44.24:959][  0]LogFileHelpers: Loading map 'Assets' took 9.902
+[2018.05.24-20.44.25:070][  0]LogCollectionManager: Loaded 13 collections in 0.007076 seconds
+[2018.05.24-20.44.25:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Collections/' took 0.01s
+[2018.05.24-20.44.25:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Developers/gd50ian/Collections/' took 0.01s
+[2018.05.24-20.44.25:117][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Collections/' took 0.01s
+[2018.05.24-20.44.25:117][  0]LogCollectionManager: Rebuilt the GUID cache for 13 collections in 0.000006 seconds
+[2018.05.24-20.44.25:118][  0]LogCollectionManager: Rebuilt the hierarchy cache for 13 collections in 0.000003 seconds
+[2018.05.24-20.44.25:128][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2468 classes and 565 folders.
+[2018.05.24-20.44.25:155][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.24-20.44.25:206][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.24-20.44.25:212][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.24-20.44.25:252][  0]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.24-20.44.25:256][  0]LogSlate: Took 0.000405 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.24-20.44.25:264][  0]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.24-20.44.25:342][  0]LogRenderer: Reallocating scene render targets to support 604x652 Format 10 NumSamples 1 (Frame:1).
+[2018.05.24-20.44.25:579][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.24-20.44.25:579][  0]LogLoad: (Engine Initialization) Total time: 22.43 seconds
+[2018.05.24-20.44.25:579][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.24-20.44.25:999][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.24-20.44.26:059][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.24-20.44.26:280][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/' took 0.34s
+[2018.05.24-20.44.26:616][  2]LogAssetRegistry: Asset discovery search completed in 17.2435 seconds
+[2018.05.24-20.44.26:622][  2]LogCollectionManager: Rebuilt the object cache for 13 collections in 0.000433 seconds (found 808 objects)
+[2018.05.24-20.44.26:623][  2]LogCollectionManager: Fixed up redirectors for 13 collections in 0.000828 seconds (updated 0 objects)
+[2018.05.24-20.44.27:614][  5]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.44.28:866][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.44.29:863][137]LogSlate: Window 'New Level' being destroyed
+[2018.05.24-20.44.29:868][137]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.24-20.44.29:875][137]LogSlate: Took 0.002654 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.24-20.44.29:878][137]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.44.29:883][137]LightingResults: New page: Lighting Build
+[2018.05.24-20.44.29:884][137]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.05.24-20.44.29:905][137]MapCheck: New page: Map Check
+[2018.05.24-20.44.29:905][137]LightingResults: New page: Lighting Build
+[2018.05.24-20.44.29:973][137]LogAIModule: Creating AISystem for world Untitled_1
+[2018.05.24-20.44.29:989][137]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.24-20.44.30:027][137]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.24-20.44.30:313][137]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 285.648ms to complete.
+[2018.05.24-20.44.30:313][137]LogFileHelpers: Loading map 'Template_Default' took 0.446
+[2018.05.24-20.44.31:675][285]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.44.33:394][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.44.50:195][487]LogSlate: Window 'Save Level As' being destroyed
+[2018.05.24-20.44.50:482][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.44.50:543][487]LogSavePackage: Save=27.05ms
+[2018.05.24-20.44.50:543][487]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Implement_new_platforming9C8970DB486770E2060B6195457C4037.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap'
+[2018.05.24-20.44.50:543][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap
+[2018.05.24-20.44.50:865][487]LogSavePackage: Save=8.54ms
+[2018.05.24-20.44.50:865][487]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Implement_new_platforming_BuiltD00CA5941495B3BFED771CCA44D4294A0.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming_BuiltData.uasset'
+[2018.05.24-20.44.50:866][487]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming_BuiltData.uasset
+[2018.05.24-20.44.51:108][487]LogFileHelpers: Saving map 'Implement_new_platforming' took 0.905
+[2018.05.24-20.44.51:109][487]Cmd: MAP LOAD FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.24-20.44.51:119][487]LightingResults: New page: Lighting Build
+[2018.05.24-20.44.51:120][487]LoadErrors: New page: Loading map: Implement_new_platforming.umap
+[2018.05.24-20.44.51:122][487]MapCheck: New page: Map Check
+[2018.05.24-20.44.51:123][487]LightingResults: New page: Lighting Build
+[2018.05.24-20.44.51:150][487]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.44.51:155][487]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.24-20.44.51:196][487]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.24-20.44.51:445][487]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 248.15ms to complete.
+[2018.05.24-20.44.51:445][487]LogFileHelpers: Loading map 'Implement_new_platforming' took 0.336
+[2018.05.24-20.44.51:445][487]LoadErrors: Error: /Game/Maps/Implement_new_platforming : Failed import for MapBuildDataRegistry /Game/Maps/Implement_new_platforming_BuiltData.Implement_new_platforming_BuiltData Referenced by export Level /Game/Maps/Implement_new_platforming.Implement_new_platforming:PersistentLevel
+[2018.05.24-20.44.52:913][652]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.44.53:025][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.24-20.44.59:848][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.45.17:790][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.45.17:865][233]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-20.45.17:883][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.45.17:883][233]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:45:17 AM)
+[2018.05.24-20.45.17:956][233]LogClass: Warning: Enum '/Game/Blueprints/GSR/EWorldCells.EWorldCells' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-20.45.17:958][233]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.45.17:960][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001741s)
+[2018.05.24-20.45.17:960][233]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.45.17:960][233]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2018.05.24-20.45.17:961][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.002652s)
+[2018.05.24-20.45.17:979][233]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.45.17:988][233]LogInit: FAudioDevice initialized.
+[2018.05.24-20.45.18:029][233]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.45.18:031][233]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.45.18
+[2018.05.24-20.45.18:031][233]LogWorld: Bringing up level for play took: 0.000769
+[2018.05.24-20.45.18:034][233]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.24-20.45.18:035][233]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.45.18:035][233]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.45.18:035][233]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.45.18:039][233]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.45.18:039][233]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 0.831
+[2018.05.24-20.45.25:122][ 34]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform)
+[2018.05.24-20.45.33:627][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.45.33:710][905]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-20.45.33:728][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.45.33:728][905]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:45:33 AM)
+[2018.05.24-20.45.33:728][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.45.33:730][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001678s)
+[2018.05.24-20.45.33:730][905]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.45.33:731][905]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.05.24-20.45.33:731][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.002447s)
+[2018.05.24-20.45.33:748][905]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.45.33:757][905]LogInit: FAudioDevice initialized.
+[2018.05.24-20.45.33:786][905]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.45.33:787][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.45.33
+[2018.05.24-20.45.33:787][905]LogWorld: Bringing up level for play took: 0.000669
+[2018.05.24-20.45.33:788][905]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.45.33:788][905]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.45.33:788][905]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.45.33:791][905]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.45.33:791][905]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 0.584
+[2018.05.24-20.45.43:974][ 75]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform)
+[2018.05.24-20.45.46:909][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.45.46:973][372]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-20.45.46:991][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.45.46:991][372]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:45:46 AM)
+[2018.05.24-20.45.46:991][372]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.45.46:993][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001705s)
+[2018.05.24-20.45.46:994][372]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.45.46:994][372]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2018.05.24-20.45.46:994][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.003125s)
+[2018.05.24-20.45.47:012][372]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.45.47:021][372]LogInit: FAudioDevice initialized.
+[2018.05.24-20.45.47:054][372]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.45.47:055][372]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.45.47
+[2018.05.24-20.45.47:055][372]LogWorld: Bringing up level for play took: 0.000664
+[2018.05.24-20.45.47:056][372]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.45.47:056][372]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.45.47:056][372]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.45.47:059][372]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.45.47:059][372]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming -0.149
+[2018.05.24-20.45.49:087][593]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform)
+[2018.05.24-20.45.54:254][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.45.54:327][120]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-20.45.54:344][120]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.45.54:345][120]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:45:54 AM)
+[2018.05.24-20.45.54:345][120]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.45.54:347][120]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001633s)
+[2018.05.24-20.45.54:347][120]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.45.54:347][120]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2018.05.24-20.45.54:347][120]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.002399s)
+[2018.05.24-20.45.54:364][120]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.45.54:372][120]LogInit: FAudioDevice initialized.
+[2018.05.24-20.45.54:402][120]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.45.54:404][120]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.45.54
+[2018.05.24-20.45.54:404][120]LogWorld: Bringing up level for play took: 0.000657
+[2018.05.24-20.45.54:405][120]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.45.54:405][120]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.45.54:405][120]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.45.54:407][120]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.45.54:407][120]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming -0.8
+[2018.05.24-20.45.59:760][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.46.06:285][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.46.10:606][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.24-20.46.12:110][ 50]LogEditorViewport: Clicking on Actor (LMB): QuestDungeonPushableBlock_C (QuestDungeonPushableBlock)
+[2018.05.24-20.46.16:182][496]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.46.19:767][905]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.46.19:972][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.46.20:380][964]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2018.05.24-20.46.23:146][257]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.05.24-20.46.25:350][505]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.05.24-20.46.32:179][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.46.35:468][630]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.46.35:824][671]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.05.24-20.46.57:462][138]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.47.01:280][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.24-20.47.10:669][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.47.10:727][574]Cmd: ACTOR ALIGN VERTS
+[2018.05.24-20.47.47:004][520]LogGeometryMode: Warning: Unable to find BoxBrush Brush(s) in new BSP
+[2018.05.24-20.47.47:004][520]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.05.24-20.48.02:984][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.24-20.48.07:913][731]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.48.12:370][227]Cmd: ACTOR ALIGN VERTS
+[2018.05.24-20.48.23:550][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.48.23:584][436]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-20.48.23:603][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.48.23:603][436]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:48:23 AM)
+[2018.05.24-20.48.23:603][436]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.48.23:607][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003288s)
+[2018.05.24-20.48.23:607][436]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.48.23:608][436]LogPlayLevel: PIE: World Init took: (0.000836s)
+[2018.05.24-20.48.23:608][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.004288s)
+[2018.05.24-20.48.23:630][436]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.48.23:639][436]LogInit: FAudioDevice initialized.
+[2018.05.24-20.48.23:671][436]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.48.23:672][436]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.48.23
+[2018.05.24-20.48.23:672][436]LogWorld: Bringing up level for play took: 0.001000
+[2018.05.24-20.48.23:673][436]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.48.23:673][436]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.48.23:673][436]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.48.23:676][436]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.48.23:676][436]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 0.469
+[2018.05.24-20.48.39:673][163]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2018.05.24-20.48.39:673][163]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.05.24-20.48.58:247][125]Cmd: DELETE
+[2018.05.24-20.48.58:250][125]Cmd: ACTOR DELETE
+[2018.05.24-20.48.58:253][125]LogEditorActor: Deleted Actor: Brush
+[2018.05.24-20.48.58:270][125]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2018.05.24-20.49.15:749][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.49.16:042][ 75]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.05.24-20.49.21:774][726]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.49.34:574][136]Cmd: TRANSACTION UNDO
+[2018.05.24-20.49.34:574][136]LogEditorTransaction: Undo Move Actors
+[2018.05.24-20.49.34:576][136]LogActorComponent: ~FComponentReregisterContext: (/Game/Maps/Implement_new_platforming.Implement_new_platforming:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.05.24-20.49.34:577][136]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2018.05.24-20.49.34:577][136]LogGeometryMode: Warning: Unable to resolve BoxBrush4_5 Brush in new BSP, see above
+[2018.05.24-20.49.34:577][136]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.05.24-20.49.50:323][906]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2018.05.24-20.49.50:323][906]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.05.24-20.49.55:031][429]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.49.55:287][458]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.05.24-20.49.59:594][961]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.50.10:160][118]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush5)
+[2018.05.24-20.50.13:640][492]Cmd: TRANSACTION UNDO
+[2018.05.24-20.50.13:640][492]LogEditorTransaction: Undo Move Actors
+[2018.05.24-20.50.14:424][566]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush5)
+[2018.05.24-20.50.50:970][784]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform)
+[2018.05.24-20.50.55:299][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.50.55:380][249]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-20.50.55:399][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.50.55:399][249]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:50:55 AM)
+[2018.05.24-20.50.55:400][249]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.50.55:404][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004249s)
+[2018.05.24-20.50.55:405][249]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.50.55:405][249]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2018.05.24-20.50.55:405][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005654s)
+[2018.05.24-20.50.55:426][249]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.50.55:437][249]LogInit: FAudioDevice initialized.
+[2018.05.24-20.50.55:466][249]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.50.55:467][249]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.50.55
+[2018.05.24-20.50.55:468][249]LogWorld: Bringing up level for play took: 0.001138
+[2018.05.24-20.50.55:468][249]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.50.55:468][249]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.50.55:468][249]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.50.55:471][249]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.50.55:472][249]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 0.264
+[2018.05.24-20.51.28:833][137]LogGeometryMode: Warning: Unable to find BoxBrush4_5 Brush(s) in new BSP
+[2018.05.24-20.51.28:833][137]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.05.24-20.52.15:808][378]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform)
+[2018.05.24-20.52.24:907][366]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform2)
+[2018.05.24-20.52.30:520][999]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform3)
+[2018.05.24-20.52.32:384][212]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform2)
+[2018.05.24-20.52.54:687][723]Cmd: TRANSACTION UNDO
+[2018.05.24-20.52.54:687][723]LogEditorTransaction: Undo Scale Actors
+[2018.05.24-20.53.14:491][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.53.14:548][981]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-20.53.14:567][981]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.53.14:567][981]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:53:14 AM)
+[2018.05.24-20.53.14:567][981]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.53.14:571][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004152s)
+[2018.05.24-20.53.14:572][981]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.53.14:572][981]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2018.05.24-20.53.14:572][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005271s)
+[2018.05.24-20.53.14:594][981]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.53.14:603][981]LogInit: FAudioDevice initialized.
+[2018.05.24-20.53.14:633][981]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.53.14:635][981]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.53.14
+[2018.05.24-20.53.14:635][981]LogWorld: Bringing up level for play took: 0.001151
+[2018.05.24-20.53.14:636][981]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.53.14:636][981]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.53.14:636][981]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.53.14:639][981]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.53.14:639][981]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming -0.568
+[2018.05.24-20.53.24:022][ 87]LogEditorViewport: Clicking on Actor (LMB): QuestDungeonPushableBlock_C (QuestDungeonPushableBlock)
+[2018.05.24-20.53.24:821][179]Cmd: DELETE
+[2018.05.24-20.53.24:821][179]Cmd: ACTOR DELETE
+[2018.05.24-20.53.24:825][179]LogEditorActor: Deleted Actor: QuestDungeonPushableBlock_C
+[2018.05.24-20.53.24:840][179]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.05.24-20.53.25:869][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.53.25:927][309]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-20.53.25:945][309]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.53.25:946][309]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:53:25 AM)
+[2018.05.24-20.53.25:946][309]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.53.25:950][309]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003724s)
+[2018.05.24-20.53.25:950][309]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.53.25:950][309]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2018.05.24-20.53.25:950][309]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.004554s)
+[2018.05.24-20.53.25:968][309]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.53.25:977][309]LogInit: FAudioDevice initialized.
+[2018.05.24-20.53.26:008][309]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.53.26:009][309]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.53.26
+[2018.05.24-20.53.26:009][309]LogWorld: Bringing up level for play took: 0.001070
+[2018.05.24-20.53.26:010][309]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.53.26:010][309]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.53.26:010][309]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.53.26:013][309]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.53.26:013][309]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 0.807
+[2018.05.24-20.53.37:027][612]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform)
+[2018.05.24-20.53.41:896][145]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform3)
+[2018.05.24-20.53.49:841][ 26]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform2)
+[2018.05.24-20.53.55:209][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.54.06:525][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.54.23:283][667]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.54.59:140][627]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.05.24-20.55.01:984][939]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.05.24-20.55.09:940][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.55.29:103][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.55.29:168][943]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-20.55.29:185][943]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.55.29:185][943]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:55:29 AM)
+[2018.05.24-20.55.29:186][943]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.55.29:190][943]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004477s)
+[2018.05.24-20.55.29:191][943]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.55.29:191][943]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2018.05.24-20.55.29:191][943]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005292s)
+[2018.05.24-20.55.29:231][943]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.55.29:240][943]LogInit: FAudioDevice initialized.
+[2018.05.24-20.55.29:271][943]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.55.29:273][943]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.55.29
+[2018.05.24-20.55.29:273][943]LogWorld: Bringing up level for play took: 0.001513
+[2018.05.24-20.55.29:274][943]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.55.29:274][943]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.55.29:274][943]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.55.29:286][943]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.55.29:286][943]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 0.08
+[2018.05.24-20.55.53:036][768]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.55.53:094][775]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-20.55.53:117][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.55.53:117][775]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:55:53 AM)
+[2018.05.24-20.55.53:117][775]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.55.53:121][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004223s)
+[2018.05.24-20.55.53:122][775]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.55.53:122][775]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2018.05.24-20.55.53:122][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005039s)
+[2018.05.24-20.55.53:142][775]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.55.53:152][775]LogInit: FAudioDevice initialized.
+[2018.05.24-20.55.53:184][775]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.55.53:185][775]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.55.53
+[2018.05.24-20.55.53:186][775]LogWorld: Bringing up level for play took: 0.001432
+[2018.05.24-20.55.53:186][775]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.55.53:186][775]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.55.53:186][775]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.55.53:197][775]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.55.53:198][775]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming -0.008
+[2018.05.24-20.56.08:763][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-20.56.08:838][626]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-20.56.08:857][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.56.08:857][626]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:56:08 AM)
+[2018.05.24-20.56.08:858][626]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.56.08:862][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004150s)
+[2018.05.24-20.56.08:862][626]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.56.08:863][626]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.05.24-20.56.08:863][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005162s)
+[2018.05.24-20.56.08:886][626]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.56.08:896][626]LogInit: FAudioDevice initialized.
+[2018.05.24-20.56.08:930][626]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.56.08:932][626]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.56.08
+[2018.05.24-20.56.08:932][626]LogWorld: Bringing up level for play took: 0.001561
+[2018.05.24-20.56.08:933][626]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.56.08:933][626]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.56.08:933][626]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.56.08:945][626]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.56.08:945][626]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming -0.261
+[2018.05.24-20.56.56:338][273]LogEditorViewport: Clicking on Actor (context menu): Quest_Rotating_Platform_C (Quest_Rotating_Platform3)
+[2018.05.24-20.56.56:374][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.56.57:385][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.56.57:385][365]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:56:57 AM)
+[2018.05.24-20.56.57:385][365]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.56.57:390][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004620s)
+[2018.05.24-20.56.57:390][365]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.56.57:391][365]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.05.24-20.56.57:391][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005566s)
+[2018.05.24-20.56.57:409][365]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.56.57:417][365]LogInit: FAudioDevice initialized.
+[2018.05.24-20.56.57:417][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.56.57:451][365]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.56.57:452][365]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.56.57
+[2018.05.24-20.56.57:453][365]LogWorld: Bringing up level for play took: 0.001458
+[2018.05.24-20.56.57:453][365]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.56.57:453][365]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.56.57:453][365]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.56.57:464][365]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.56.57:464][365]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 0.259
+[2018.05.24-20.57.01:876][873]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform2)
+[2018.05.24-20.57.03:723][ 65]LogEditorViewport: Clicking on Actor (context menu): Quest_Rotating_Platform_C (Quest_Rotating_Platform3)
+[2018.05.24-20.57.03:759][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.57.05:009][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.57.05:009][167]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:57:05 AM)
+[2018.05.24-20.57.05:009][167]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.57.05:014][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004382s)
+[2018.05.24-20.57.05:014][167]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.57.05:015][167]LogPlayLevel: PIE: World Init took: (0.000769s)
+[2018.05.24-20.57.05:015][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005302s)
+[2018.05.24-20.57.05:032][167]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.57.05:041][167]LogInit: FAudioDevice initialized.
+[2018.05.24-20.57.05:041][167]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.57.05:068][167]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.57.05:070][167]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.57.05
+[2018.05.24-20.57.05:070][167]LogWorld: Bringing up level for play took: 0.001627
+[2018.05.24-20.57.05:071][167]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.57.05:071][167]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.57.05:071][167]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.57.05:083][167]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.57.05:083][167]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming -0.123
+[2018.05.24-20.57.24:566][484]LogEditorViewport: Clicking on Actor (context menu): Quest_Rotating_Platform_C (Quest_Rotating_Platform6)
+[2018.05.24-20.57.24:599][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.57.27:103][736]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform4)
+[2018.05.24-20.57.27:973][812]LogEditorViewport: Clicking on Actor (CTRL LMB): QuestAISpawner_C (QuestAISpawner4)
+[2018.05.24-20.57.34:722][567]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform5)
+[2018.05.24-20.57.41:595][318]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform4)
+[2018.05.24-20.57.43:898][558]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.24-20.57.44:367][607]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform4)
+[2018.05.24-20.57.47:025][913]LogEditorViewport: Clicking on Actor (context menu): Quest_Rotating_Platform_C (Quest_Rotating_Platform6)
+[2018.05.24-20.57.47:059][913]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.57.48:491][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.57.48:491][ 33]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:57:48 AM)
+[2018.05.24-20.57.48:491][ 33]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.57.48:496][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004405s)
+[2018.05.24-20.57.48:497][ 33]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.57.48:497][ 33]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.05.24-20.57.48:497][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005290s)
+[2018.05.24-20.57.48:518][ 33]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.57.48:526][ 33]LogInit: FAudioDevice initialized.
+[2018.05.24-20.57.48:526][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.57.48:560][ 33]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.57.48:562][ 33]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.57.48
+[2018.05.24-20.57.48:563][ 33]LogWorld: Bringing up level for play took: 0.001463
+[2018.05.24-20.57.48:563][ 33]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.57.48:563][ 33]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.57.48:563][ 33]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.57.48:574][ 33]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.57.48:575][ 33]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming -0.631
+[2018.05.24-20.57.57:989][140]LogEditorViewport: Clicking on Actor (context menu): Quest_Rotating_Platform_C (Quest_Rotating_Platform6)
+[2018.05.24-20.57.58:021][140]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.57.59:640][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.57.59:640][282]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:57:59 AM)
+[2018.05.24-20.57.59:641][282]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.57.59:647][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005943s)
+[2018.05.24-20.57.59:647][282]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.57.59:648][282]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2018.05.24-20.57.59:648][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.007075s)
+[2018.05.24-20.57.59:666][282]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.57.59:675][282]LogInit: FAudioDevice initialized.
+[2018.05.24-20.57.59:675][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.57.59:703][282]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.57.59:705][282]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.57.59
+[2018.05.24-20.57.59:705][282]LogWorld: Bringing up level for play took: 0.001525
+[2018.05.24-20.57.59:706][282]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.57.59:706][282]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.57.59:706][282]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.57.59:717][282]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.57.59:717][282]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 0.512
+[2018.05.24-20.58.35:471][548]LogEditorViewport: Clicking on Actor (context menu): Quest_Rotating_Platform_C (Quest_Rotating_Platform6)
+[2018.05.24-20.58.35:504][548]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.58.36:480][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-20.58.36:480][636]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 6:58:36 AM)
+[2018.05.24-20.58.36:481][636]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-20.58.36:485][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004470s)
+[2018.05.24-20.58.36:486][636]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-20.58.36:486][636]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2018.05.24-20.58.36:486][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005249s)
+[2018.05.24-20.58.36:503][636]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-20.58.36:511][636]LogInit: FAudioDevice initialized.
+[2018.05.24-20.58.36:511][636]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.58.36:539][636]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-20.58.36:541][636]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-13.58.36
+[2018.05.24-20.58.36:541][636]LogWorld: Bringing up level for play took: 0.001467
+[2018.05.24-20.58.36:542][636]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.58.36:542][636]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-20.58.36:542][636]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.58.36:553][636]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-20.58.36:553][636]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming -0.653
+[2018.05.24-20.59.26:417][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.59.26:528][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-20.59.26:648][583]LogSavePackage: Save=93.50ms
+[2018.05.24-20.59.26:648][583]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Implement_new_platforming746DE19341FC529682158CACF111B822.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap'
+[2018.05.24-20.59.26:650][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap
+[2018.05.24-21.12.14:583][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.12.14:657][814]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-21.12.14:676][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-21.12.14:676][814]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 7:12:14 AM)
+[2018.05.24-21.12.14:677][814]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-21.12.14:682][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005061s)
+[2018.05.24-21.12.14:683][814]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-21.12.14:683][814]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2018.05.24-21.12.14:683][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.006238s)
+[2018.05.24-21.12.14:705][814]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-21.12.14:715][814]LogInit: FAudioDevice initialized.
+[2018.05.24-21.12.14:743][814]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-21.12.14:745][814]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-14.12.14
+[2018.05.24-21.12.14:746][814]LogWorld: Bringing up level for play took: 0.001801
+[2018.05.24-21.12.14:746][814]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.12.14:746][814]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.12.14:746][814]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.12.14:758][814]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.12.14:758][814]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming -0.448
+[2018.05.24-21.12.17:310][106]LogRenderer: Reallocating scene render targets to support 612x652 Format 10 NumSamples 1 (Frame:287).
+[2018.05.24-21.12.17:392][107]LogRenderer: Reallocating scene render targets to support 644x652 Format 10 NumSamples 1 (Frame:288).
+[2018.05.24-21.12.17:483][108]LogRenderer: Reallocating scene render targets to support 772x652 Format 10 NumSamples 1 (Frame:289).
+[2018.05.24-21.12.17:581][109]LogRenderer: Reallocating scene render targets to support 828x652 Format 10 NumSamples 1 (Frame:290).
+[2018.05.24-21.12.17:753][111]LogRenderer: Reallocating scene render targets to support 912x652 Format 10 NumSamples 1 (Frame:292).
+[2018.05.24-21.12.17:862][112]LogRenderer: Reallocating scene render targets to support 964x652 Format 10 NumSamples 1 (Frame:293).
+[2018.05.24-21.12.38:504][563]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.12.38:586][573]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-21.12.38:604][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-21.12.38:604][573]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 7:12:38 AM)
+[2018.05.24-21.12.38:604][573]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-21.12.38:609][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005174s)
+[2018.05.24-21.12.38:610][573]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-21.12.38:610][573]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2018.05.24-21.12.38:610][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.006281s)
+[2018.05.24-21.12.38:629][573]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-21.12.38:638][573]LogInit: FAudioDevice initialized.
+[2018.05.24-21.12.38:667][573]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-21.12.38:669][573]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-14.12.38
+[2018.05.24-21.12.38:669][573]LogWorld: Bringing up level for play took: 0.001466
+[2018.05.24-21.12.38:670][573]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.12.38:670][573]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.12.38:670][573]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.12.38:681][573]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.12.38:681][573]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming -0.525
+[2018.05.24-21.13.25:647][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.13.25:713][192]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-21.13.25:730][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-21.13.25:731][192]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 7:13:25 AM)
+[2018.05.24-21.13.25:731][192]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-21.13.25:735][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004251s)
+[2018.05.24-21.13.25:736][192]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-21.13.25:736][192]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2018.05.24-21.13.25:736][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005202s)
+[2018.05.24-21.13.25:753][192]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-21.13.25:762][192]LogInit: FAudioDevice initialized.
+[2018.05.24-21.13.25:793][192]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-21.13.25:795][192]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-14.13.25
+[2018.05.24-21.13.25:795][192]LogWorld: Bringing up level for play took: 0.001450
+[2018.05.24-21.13.25:796][192]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.13.25:796][192]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.13.25:796][192]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.13.25:810][192]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.13.25:811][192]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 0.605
+[2018.05.24-21.13.35:703][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.13.35:794][371]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-21.13.35:811][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-21.13.35:811][371]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 7:13:35 AM)
+[2018.05.24-21.13.35:812][371]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-21.13.35:816][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004644s)
+[2018.05.24-21.13.35:817][371]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-21.13.35:817][371]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2018.05.24-21.13.35:817][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005513s)
+[2018.05.24-21.13.35:834][371]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-21.13.35:843][371]LogInit: FAudioDevice initialized.
+[2018.05.24-21.13.35:873][371]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-21.13.35:875][371]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-14.13.35
+[2018.05.24-21.13.35:876][371]LogWorld: Bringing up level for play took: 0.001576
+[2018.05.24-21.13.35:876][371]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.13.35:877][371]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.13.35:877][371]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.13.35:887][371]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.13.35:888][371]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 0.682
+[2018.05.24-21.14.02:045][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.14.02:153][496]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-21.14.02:174][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-21.14.02:174][496]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 7:14:02 AM)
+[2018.05.24-21.14.02:174][496]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-21.14.02:180][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005694s)
+[2018.05.24-21.14.02:181][496]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-21.14.02:181][496]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.05.24-21.14.02:181][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.006561s)
+[2018.05.24-21.14.02:203][496]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-21.14.02:214][496]LogInit: FAudioDevice initialized.
+[2018.05.24-21.14.02:246][496]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-21.14.02:248][496]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-14.14.02
+[2018.05.24-21.14.02:248][496]LogWorld: Bringing up level for play took: 0.001496
+[2018.05.24-21.14.02:249][496]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.14.02:249][496]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.14.02:249][496]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.14.02:260][496]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.14.02:260][496]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 1.055
+[2018.05.24-21.14.11:394][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.14.11:502][582]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-21.14.11:523][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-21.14.11:523][582]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 7:14:11 AM)
+[2018.05.24-21.14.11:523][582]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-21.14.11:530][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006359s)
+[2018.05.24-21.14.11:530][582]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-21.14.11:531][582]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.05.24-21.14.11:531][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.007210s)
+[2018.05.24-21.14.11:554][582]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-21.14.11:562][582]LogInit: FAudioDevice initialized.
+[2018.05.24-21.14.11:588][582]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-21.14.11:590][582]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-14.14.11
+[2018.05.24-21.14.11:591][582]LogWorld: Bringing up level for play took: 0.001492
+[2018.05.24-21.14.11:591][582]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.14.11:591][582]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.14.11:591][582]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.14.11:605][582]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.14.11:605][582]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 0.399
+[2018.05.24-21.15.11:952][761]LogEditorViewport: Clicking on Actor (LMB): Quest_Rotating_Platform_C (Quest_Rotating_Platform)
+[2018.05.24-21.15.12:141][779]LogEditorViewport: Clicking on Actor (context menu): Quest_Rotating_Platform_C (Quest_Rotating_Platform)
+[2018.05.24-21.15.12:166][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.15.16:169][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-21.15.16:169][163]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 7:15:16 AM)
+[2018.05.24-21.15.16:169][163]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-21.15.16:174][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004573s)
+[2018.05.24-21.15.16:175][163]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-21.15.16:175][163]LogPlayLevel: PIE: World Init took: (0.000771s)
+[2018.05.24-21.15.16:175][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.005481s)
+[2018.05.24-21.15.16:193][163]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-21.15.16:202][163]LogInit: FAudioDevice initialized.
+[2018.05.24-21.15.16:202][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.15.16:235][163]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-21.15.16:236][163]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-14.15.16
+[2018.05.24-21.15.16:237][163]LogWorld: Bringing up level for play took: 0.001406
+[2018.05.24-21.15.16:237][163]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.15.16:237][163]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.15.16:237][163]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.15.16:249][163]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.15.16:249][163]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming 1.044
+[2018.05.24-21.16.40:105][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.16.45:934][870]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.17.14:620][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.17.14:723][114]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.17.14:796][114]LogSavePackage: Save=45.59ms
+[2018.05.24-21.17.14:797][114]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Implement_new_platforming27E91AF041194F33126B4DBF800D863A.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap'
+[2018.05.24-21.17.14:798][114]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap
+[2018.05.24-21.17.21:523][862]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.24-21.17.22:854][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.17.35:061][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.18.03:085][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.18.18:811][ 48]LogEditorViewport: Clicking on Actor (LMB): QuestPickup_C (QuestPickup2)
+[2018.05.24-21.18.22:493][399]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.05.24-21.18.50:977][353]LogGeometryMode: Warning: Unable to find BoxBrush2 Brush(s) in new BSP
+[2018.05.24-21.18.50:977][353]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.05.24-21.19.08:338][239]LogGeometryMode: Warning: Unable to find BoxBrush4_5 Brush(s) in new BSP
+[2018.05.24-21.19.08:338][239]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.05.24-21.19.25:626][ 69]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2018.05.24-21.19.25:626][ 69]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.05.24-21.19.51:325][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.24-21.20.17:295][426]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.05.24-21.20.24:470][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.20.24:525][178]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-21.20.24:545][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-21.20.24:545][178]PIE: New page: PIE session: Implement_new_platforming (May 24, 2018, 7:20:24 AM)
+[2018.05.24-21.20.24:545][178]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Implement_new_platforming
+[2018.05.24-21.20.24:552][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006202s)
+[2018.05.24-21.20.24:553][178]LogAIModule: Creating AISystem for world Implement_new_platforming
+[2018.05.24-21.20.24:553][178]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2018.05.24-21.20.24:553][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Implement_new_platforming.Implement_new_platforming to /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming (0.007453s)
+[2018.05.24-21.20.24:574][178]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-21.20.24:583][178]LogInit: FAudioDevice initialized.
+[2018.05.24-21.20.24:612][178]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-21.20.24:614][178]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Implement_new_platforming.Implement_new_platforming up for play (max tick rate 0) at 2018.05.24-14.20.24
+[2018.05.24-21.20.24:614][178]LogWorld: Bringing up level for play took: 0.001730
+[2018.05.24-21.20.24:615][178]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.20.24:615][178]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.20.24:615][178]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.20.24:626][178]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.20.24:626][178]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Implement_new_platforming -0.578
+[2018.05.24-21.21.05:787][817]LogGeometryMode: Warning: Unable to find BoxBrush7 Brush(s) in new BSP
+[2018.05.24-21.21.05:787][817]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2018.05.24-21.21.24:490][781]LogEditorViewport: Clicking on Actor (LMB): QuestAISpawner_C (QuestAISpawner2)
+[2018.05.24-21.21.28:573][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.21.40:254][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.21.51:654][435]LogEditorViewport: Clicking on Actor (LMB): QuestAISpawner_C (QuestAISpawner)
+[2018.05.24-21.21.54:646][730]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.22.10:924][290]LogEditorViewport: Clicking on Actor (LMB): QuestPickup_C (QuestPickup)
+[2018.05.24-21.22.27:198][896]LogEditorViewport: Clicking on Actor (LMB): QuestPickup_C (QuestPickup3)
+[2018.05.24-21.22.33:025][459]LogEditorViewport: Clicking on Actor (LMB): QuestPickup_C (QuestPickup2)
+[2018.05.24-21.22.39:821][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.22.39:914][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.22.40:038][164]LogSavePackage: Save=88.80ms
+[2018.05.24-21.22.40:038][164]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Implement_new_platforming6893D91A44CCE69CBB3594A331A727D1.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap'
+[2018.05.24-21.22.40:040][164]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap
+[2018.05.24-21.22.54:179][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.22.54:254][651]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.22.54:343][651]LogSavePackage: Save=60.22ms
+[2018.05.24-21.22.54:343][651]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Implement_new_platforming4C03D61348BA686AE22F7AB2A42B2B41.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap'
+[2018.05.24-21.22.54:344][651]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap
+[2018.05.24-21.23.51:628][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.23.51:715][754]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.23.51:804][754]LogSavePackage: Save=64.17ms
+[2018.05.24-21.23.51:804][754]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Implement_new_platformingCACF9933436BCF4FBFC194B99A124EC8.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap'
+[2018.05.24-21.23.51:805][754]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Implement_new_platforming.umap
+[2018.05.24-21.23.52:995][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.23.53:581][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.23.54:402][926]LogSlate: Window 'New Level' being destroyed
+[2018.05.24-21.23.54:406][926]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.24-21.23.54:411][926]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.23.54:416][926]LightingResults: New page: Lighting Build
+[2018.05.24-21.23.54:416][926]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.05.24-21.23.54:417][926]MapCheck: New page: Map Check
+[2018.05.24-21.23.54:417][926]LightingResults: New page: Lighting Build
+[2018.05.24-21.23.54:455][926]LogAIModule: Creating AISystem for world Untitled_2
+[2018.05.24-21.23.54:461][926]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.24-21.23.54:480][926]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.24-21.23.54:745][926]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 265.334ms to complete.
+[2018.05.24-21.23.54:745][926]LogFileHelpers: Loading map 'Template_Default' took 0.341
+[2018.05.24-21.23.55:828][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.23.56:844][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.24.05:487][162]LogSlate: Window 'Save Level As' being destroyed
+[2018.05.24-21.24.05:490][162]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2018.05.24-21.24.05:825][162]LogSavePackage: Save=21.16ms
+[2018.05.24-21.24.05:825][162]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Pickup_feedback2490650F49E422D7C4D3E190E0482C66.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap'
+[2018.05.24-21.24.05:825][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap
+[2018.05.24-21.24.06:179][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Pickup_feedback_BuiltData" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback_BuiltData.uasset" SILENT=true
+[2018.05.24-21.24.06:189][162]LogSavePackage: Save=8.80ms
+[2018.05.24-21.24.06:189][162]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Pickup_feedback_BuiltDataD28D6AB84A471D9220917FB7545C9363.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback_BuiltData.uasset'
+[2018.05.24-21.24.06:191][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback_BuiltData.uasset
+[2018.05.24-21.24.06:421][162]LogFileHelpers: Saving map 'Pickup_feedback' took 0.926
+[2018.05.24-21.24.06:423][162]Cmd: MAP LOAD FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.24-21.24.06:431][162]LightingResults: New page: Lighting Build
+[2018.05.24-21.24.06:431][162]LoadErrors: New page: Loading map: Pickup_feedback.umap
+[2018.05.24-21.24.06:432][162]MapCheck: New page: Map Check
+[2018.05.24-21.24.06:432][162]LightingResults: New page: Lighting Build
+[2018.05.24-21.24.06:460][162]LogAIModule: Creating AISystem for world Pickup_feedback
+[2018.05.24-21.24.06:465][162]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.24-21.24.06:507][162]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.24-21.24.06:759][162]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 252.094ms to complete.
+[2018.05.24-21.24.06:760][162]LogFileHelpers: Loading map 'Pickup_feedback' took 0.338
+[2018.05.24-21.24.06:760][162]LoadErrors: Error: /Game/Maps/Pickup_feedback : Failed import for MapBuildDataRegistry /Game/Maps/Pickup_feedback_BuiltData.Pickup_feedback_BuiltData Referenced by export Level /Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel
+[2018.05.24-21.24.07:976][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.05.24-21.24.14:539][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.24.16:277][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.24.24:581][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.24.24:689][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.24.24:739][885]LogSavePackage: Save=20.20ms
+[2018.05.24-21.24.24:739][885]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Pickup_feedback19AA397B44743B4F9275C8A7C51EED20.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap'
+[2018.05.24-21.24.24:740][885]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap
+[2018.05.24-21.24.43:478][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.24.45:791][533]LogClass: Warning: Enum '/Game/Blueprints/Characters/Enum_CharacterState.Enum_CharacterState' was upgraded to use FText to store its display name data. Please re-save this asset to avoid issues with localization and determinstic cooking.
+[2018.05.24-21.24.45:799][533]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.05.24-21.24.46:593][533]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.24-21.24.46:624][534]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.24-21.25.26:279][289]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.25.26:409][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.25.26:422][289]LogSavePackage: Save=5.56ms
+[2018.05.24-21.25.26:422][289]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_library19234B5A4A841CEE92188AAB325B91CB.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.25.26:424][289]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.25.35:824][408]LogSlate: Took 0.002294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.05.24-21.26.04:668][858]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.26.04:819][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.26.04:831][858]LogSavePackage: Save=5.60ms
+[2018.05.24-21.26.04:831][858]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_library61B64D1D4E7CA1AA2837B69DE2CD498D.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.26.04:833][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.26.27:129][529]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.26.27:278][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.26.27:289][529]LogSavePackage: Save=5.78ms
+[2018.05.24-21.26.27:289][529]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_libraryCE84959F4BDB63B9B1E195A40EFF258E.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.26.27:291][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.26.55:286][827]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.26.55:418][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.26.55:433][827]LogSavePackage: Save=9.21ms
+[2018.05.24-21.26.55:433][827]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_library5D55EEFA4ED11B14F8BFE680157119C2.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.26.55:435][827]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.27.18:663][612]LogEditorTransaction: Undo Move Node
+[2018.05.24-21.27.26:301][527]LogEditorTransaction: Undo Move Node
+[2018.05.24-21.27.42:026][412]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.27.42:155][412]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.27.42:168][412]LogSavePackage: Save=7.46ms
+[2018.05.24-21.27.42:168][412]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_library307679534AAC0B6C9192FAA716041578.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.27.42:170][412]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.28.41:868][529]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.28.42:019][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.28.42:032][529]LogSavePackage: Save=7.77ms
+[2018.05.24-21.28.42:032][529]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_library872855B949A1ED486A1706B7C0DAED8C.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.28.42:034][529]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.29.03:461][200]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.30.28:915][295]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.05.24-21.30.32:276][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository
+[2018.05.24-21.30.36:359][173]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository
+[2018.05.24-21.30.46:817][422]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2018.05.24-21.30.48:217][590]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.30.48:352][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.30.48:367][590]LogSavePackage: Save=8.48ms
+[2018.05.24-21.30.48:367][590]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_libraryCFD07938431268E4E4970CA56D91CD57.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.30.48:369][590]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.31.04:579][522]LogAudioDerivedData: Display: Building compressed audio format OGG wave General_GetResources_01...
+[2018.05.24-21.31.06:513][753]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.31.06:638][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.31.06:652][753]LogSavePackage: Save=9.18ms
+[2018.05.24-21.31.06:652][753]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_library79FCEF2647A7948F64A40299D80A79B8.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.31.06:654][753]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.31.20:239][375]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository
+[2018.05.24-21.31.49:310][850]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.31.49:448][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.31.49:470][850]LogSavePackage: Save=15.66ms
+[2018.05.24-21.31.49:470][850]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_library5E5259B64E951150908489860CFCA49F.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.31.49:472][850]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.34.43:124][520]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.34.43:282][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.34.43:306][520]LogSavePackage: Save=18.09ms
+[2018.05.24-21.34.43:306][520]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_library505C5A874580E03F8BC57194086F5E24.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.34.43:308][520]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.35.17:452][581]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.35.17:644][581]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.35.17:666][581]LogSavePackage: Save=16.60ms
+[2018.05.24-21.35.17:666][581]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_libraryA5DBC4B943B72EA060BDB99BE9AAC787.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.35.17:669][581]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.35.36:517][558]LogSlate: Window 'Pickup_feedback - Level Blueprint Editor' being destroyed
+[2018.05.24-21.35.40:603][ 48]BlueprintLog: New page: Compile Pickup_feedback
+[2018.05.24-21.35.41:171][ 48]LogSavePackage: Save=153.63ms
+[2018.05.24-21.35.41:171][ 48]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Pickup_feedback2894575B472A70CD3B27F59EA42A2F7A.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap'
+[2018.05.24-21.35.41:174][ 48]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap
+[2018.05.24-21.35.41:200][ 48]LogFileHelpers: Saving map 'Pickup_feedback' took 0.481
+[2018.05.24-21.35.57:392][916]BlueprintLog: New page: Compile Pickup_feedback
+[2018.05.24-21.35.58:085][916]LogSavePackage: Save=162.39ms
+[2018.05.24-21.35.58:085][916]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Pickup_feedback2E9CDC604E49BFC91F88B2B13B3F6DB4.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap'
+[2018.05.24-21.35.58:087][916]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap
+[2018.05.24-21.35.58:112][916]LogFileHelpers: Saving map 'Pickup_feedback' took 0.477
+[2018.05.24-21.36.04:667][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.36.07:854][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.36.14:323][700]BlueprintLog: New page: Compile Pickup_feedback
+[2018.05.24-21.36.15:009][700]LogSavePackage: Save=154.19ms
+[2018.05.24-21.36.15:009][700]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Pickup_feedback1F6225374A12BA58E79BDDB5ECFD9626.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap'
+[2018.05.24-21.36.15:011][700]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap
+[2018.05.24-21.36.15:040][700]LogFileHelpers: Saving map 'Pickup_feedback' took 0.477
+[2018.05.24-21.36.15:795][790]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.36.17:720][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.36.17:910][991]LogSavePackage: Save=152.97ms
+[2018.05.24-21.36.17:910][991]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Pickup_feedback6B075AD0445A190D48D622BCF1E35438.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap'
+[2018.05.24-21.36.17:912][991]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap
+[2018.05.24-21.36.47:638][152]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.36.53:413][840]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.19/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset: 'C:/Program Files/Epic Games/UE_4.19/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/3dParticleOpacity_Particle.uasset' is outside repository
+[2018.05.24-21.37.05:038][228]BlueprintLog: New page: Compile BP_library
+[2018.05.24-21.37.05:204][228]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Game/BP_library" FILE="../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset" SILENT=true
+[2018.05.24-21.37.05:226][228]LogSavePackage: Save=16.51ms
+[2018.05.24-21.37.05:226][228]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/BP_libraryDE6291E74463F81A7E5FCD8C54C079EB.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset'
+[2018.05.24-21.37.05:228][228]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Blueprints/Game/BP_library.uasset
+[2018.05.24-21.37.09:550][651]LogSavePackage: Save=151.47ms
+[2018.05.24-21.37.09:550][651]LogSavePackage: Moving '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Pickup_feedbackA9C7D68040E71246A221688BEA3CF3B3.tmp' to '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap'
+[2018.05.24-21.37.09:552][651]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Maps/Pickup_feedback.umap
+[2018.05.24-21.37.10:222][716]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-21.37.10:243][716]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback' with GeneratedClass '/Game/Maps/Pickup_feedback.Pickup_feedback_C' with ClassGeneratedBy '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback'
+[2018.05.24-21.37.10:243][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-21.37.10:243][716]PIE: New page: PIE session: Pickup_feedback (May 24, 2018, 7:37:10 AM)
+[2018.05.24-21.37.10:243][716]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pickup_feedback
+[2018.05.24-21.37.10:245][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002151s)
+[2018.05.24-21.37.10:246][716]LogAIModule: Creating AISystem for world Pickup_feedback
+[2018.05.24-21.37.10:246][716]LogPlayLevel: PIE: World Init took: (0.000967s)
+[2018.05.24-21.37.10:246][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pickup_feedback.Pickup_feedback to /Game/Maps/UEDPIE_0_Pickup_feedback.Pickup_feedback (0.003244s)
+[2018.05.24-21.37.10:277][716]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-21.37.10:286][716]LogInit: FAudioDevice initialized.
+[2018.05.24-21.37.10:314][716]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-21.37.10:315][716]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pickup_feedback.Pickup_feedback up for play (max tick rate 0) at 2018.05.24-14.37.10
+[2018.05.24-21.37.10:315][716]LogWorld: Bringing up level for play took: 0.000585
+[2018.05.24-21.37.10:316][716]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.37.10:316][716]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.37.10:316][716]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.37.10:319][716]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.37.10:319][716]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pickup_feedback -0.885
+[2018.05.24-21.37.10:319][716]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback' with GeneratedClass '/Game/Maps/Pickup_feedback.Pickup_feedback_C' with ClassGeneratedBy '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback'
+[2018.05.24-21.37.15:675][350]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback' with GeneratedClass '/Game/Maps/Pickup_feedback.Pickup_feedback_C' with ClassGeneratedBy '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback'
+[2018.05.24-21.37.15:710][350]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback' with GeneratedClass '/Game/Maps/Pickup_feedback.Pickup_feedback_C' with ClassGeneratedBy '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback'
+[2018.05.24-21.37.22:853][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.37.26:208][504]LogRenderer: Reallocating scene render targets to support 1060x652 Format 10 NumSamples 1 (Frame:21051).
+[2018.05.24-21.37.26:268][505]LogRenderer: Reallocating scene render targets to support 1200x652 Format 10 NumSamples 1 (Frame:21054).
+[2018.05.24-21.37.26:323][506]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:21056).
+[2018.05.24-21.38.25:208][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-21.38.25:307][548]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.24-21.38.25:332][548]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback' with GeneratedClass '/Game/Maps/Pickup_feedback.Pickup_feedback_C' with ClassGeneratedBy '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback'
+[2018.05.24-21.38.25:332][548]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-21.38.25:332][548]PIE: New page: PIE session: Pickup_feedback (May 24, 2018, 7:38:25 AM)
+[2018.05.24-21.38.25:333][548]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Pickup_feedback
+[2018.05.24-21.38.25:335][548]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002403s)
+[2018.05.24-21.38.25:336][548]LogAIModule: Creating AISystem for world Pickup_feedback
+[2018.05.24-21.38.25:336][548]LogPlayLevel: PIE: World Init took: (0.000982s)
+[2018.05.24-21.38.25:336][548]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Pickup_feedback.Pickup_feedback to /Game/Maps/UEDPIE_0_Pickup_feedback.Pickup_feedback (0.003548s)
+[2018.05.24-21.38.25:368][548]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.24-21.38.25:376][548]LogInit: FAudioDevice initialized.
+[2018.05.24-21.38.25:404][548]LogLoad: Game class is 'QuestGameMode_C'
+[2018.05.24-21.38.25:405][548]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Pickup_feedback.Pickup_feedback up for play (max tick rate 0) at 2018.05.24-14.38.25
+[2018.05.24-21.38.25:405][548]LogWorld: Bringing up level for play took: 0.000630
+[2018.05.24-21.38.25:406][548]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.38.25:406][548]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.05.24-21.38.25:406][548]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.38.25:409][548]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.05.24-21.38.25:409][548]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Pickup_feedback 0.205
+[2018.05.24-21.38.25:409][548]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback' with GeneratedClass '/Game/Maps/Pickup_feedback.Pickup_feedback_C' with ClassGeneratedBy '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback'
+[2018.05.24-21.38.29:803][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback' with GeneratedClass '/Game/Maps/Pickup_feedback.Pickup_feedback_C' with ClassGeneratedBy '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback'
+[2018.05.24-21.38.29:841][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback' with GeneratedClass '/Game/Maps/Pickup_feedback.Pickup_feedback_C' with ClassGeneratedBy '/Game/Maps/Pickup_feedback.Pickup_feedback:PersistentLevel.Pickup_feedback'
+[2018.05.24-21.38.57:973][162]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.39.01:893][413]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-21.45.24:188][295]LogSlate: Window 'Quest_GD50 - Unreal Editor' being destroyed
+[2018.05.24-21.45.24:297][296]Cmd: QUIT_EDITOR
+[2018.05.24-21.45.24:558][296]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.24-21.45.24:574][296]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.05.24-21.45.24:574][296]LogExit: Preparing to exit.
+[2018.05.24-21.45.25:279][296]LogDirectoryWatcher: A directory notification for 'C:/Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/' was aborted.
+[2018.05.24-21.45.25:413][296]LogExit: Editor shut down
+[2018.05.24-21.45.25:418][296]LogExit: Transaction tracking system shut down
+[2018.05.24-21.45.25:611][296]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.24-21.45.25:611][296]LogDirectoryWatcher: A directory notification for '../../../../../../Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/' was aborted.
+[2018.05.24-21.45.25:611][296]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.24-21.45.25:611][296]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.05.24-21.45.25:611][296]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.24-21.45.25:611][296]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.24-21.45.25:611][296]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.24-21.45.25:611][296]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.24-21.45.25:775][296]LogExit: Object subsystem successfully closed.
+[2018.05.24-21.45.25:803][296]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.05.24-21.45.25:811][296]LogD3D11RHI: Shutdown
+[2018.05.24-21.45.25:811][296]LogD3D11RHI: CleanupD3DDevice
+[2018.05.24-21.45.25:815][296]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.24-21.45.25:823][296]LogModuleManager: Shutting down and abandoning module BlueprintGraph (588)
+[2018.05.24-21.45.25:823][296]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (586)
+[2018.05.24-21.45.25:823][296]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (584)
+[2018.05.24-21.45.25:823][296]LogModuleManager: Shutting down and abandoning module NewLevelDialog (582)
+[2018.05.24-21.45.25:823][296]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (580)
+[2018.05.24-21.45.25:823][296]LogModuleManager: Shutting down and abandoning module SceneOutliner (578)
+[2018.05.24-21.45.25:824][296]LogModuleManager: Shutting down and abandoning module AddContentDialog (576)
+[2018.05.24-21.45.25:824][296]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module WidgetCarousel (575)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module EditorWidgets (572)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module CollectionManager (570)
+[2018.05.24-21.45.25:825][296]LogDirectoryWatcher: A directory notification for 'C:/Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Collections/' was aborted.
+[2018.05.24-21.45.25:825][296]LogDirectoryWatcher: A directory notification for 'C:/Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Content/Developers/gd50ian/Collections/' was aborted.
+[2018.05.24-21.45.25:825][296]LogDirectoryWatcher: A directory notification for 'C:/Users/gd50ian/Documents/Unreal/Quest_GD50/Quest_GD50/Saved/Collections/' was aborted.
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module StatsViewer (568)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module FoliageEdit (566)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module LandscapeEditor (564)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module MeshPaintMode (562)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (560)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module ActorPickerMode (558)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module GeometryMode (556)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module TextureAlignMode (554)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module BspMode (552)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (550)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module HardwareSurvey (548)
+[2018.05.24-21.45.25:825][296]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (546)
+[2018.05.24-21.45.25:826][296]LogModuleManager: Shutting down and abandoning module AutomationWorker (544)
+[2018.05.24-21.45.25:826][296]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (542)
+[2018.05.24-21.45.25:826][296]LogModuleManager: Shutting down and abandoning module SequenceRecorder (541)
+[2018.05.24-21.45.25:826][296]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (538)
+[2018.05.24-21.45.25:826][296]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (536)
+[2018.05.24-21.45.25:826][296]LogModuleManager: Shutting down and abandoning module PlacementMode (535)
+[2018.05.24-21.45.25:826][296]LogModuleManager: Shutting down and abandoning module MaterialEditor (534)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (530)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (528)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (526)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (524)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (522)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (520)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (518)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (516)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (514)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (512)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module CharacterAI (510)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module SmartSnapping (508)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module SessionServices (506)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module ViewportSnapping (504)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module ViewportInteraction (502)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module ClothPainter (500)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (499)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module LogVisualizer (496)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module IntroTutorials (494)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (493)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (490)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (488)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (486)
+[2018.05.24-21.45.25:827][296]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (485)
+[2018.05.24-21.45.26:464][296]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (482)
+[2018.05.24-21.45.26:464][296]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (480)
+[2018.05.24-21.45.26:464][296]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (478)
+[2018.05.24-21.45.26:464][296]LogModuleManager: Shutting down and abandoning module InputBindingEditor (476)
+[2018.05.24-21.45.26:464][296]LogModuleManager: Shutting down and abandoning module MergeActors (474)
+[2018.05.24-21.45.26:464][296]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (472)
+[2018.05.24-21.45.26:464][296]LogModuleManager: Shutting down and abandoning module LocalizationService (471)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module HardwareTargeting (468)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (466)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module UndoHistory (464)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module XmlParser (462)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module Blutility (460)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (458)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (457)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (454)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module SettingsEditor (452)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module ProjectLauncher (450)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module SessionFrontend (448)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module ProfilerClient (446)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module DeviceManager (444)
+[2018.05.24-21.45.26:465][296]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (443)
+[2018.05.24-21.45.26:531][296]LogModuleManager: Shutting down and abandoning module AutomationController (440)
+[2018.05.24-21.45.26:531][296]LogModuleManager: Shutting down and abandoning module AutomationWindow (438)
+[2018.05.24-21.45.26:531][296]LogModuleManager: Shutting down and abandoning module Layers (436)
+[2018.05.24-21.45.26:531][296]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (434)
+[2018.05.24-21.45.26:531][296]LogModuleManager: Shutting down and abandoning module DetailCustomizations (432)
+[2018.05.24-21.45.26:531][296]LogModuleManager: Shutting down and abandoning module PackagesDialog (430)
+[2018.05.24-21.45.26:531][296]LogModuleManager: Shutting down and abandoning module Persona (428)
+[2018.05.24-21.45.26:531][296]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (427)
+[2018.05.24-21.45.26:531][296]LogModuleManager: Shutting down and abandoning module AnimGraph (425)
+[2018.05.24-21.45.26:531][296]LogModuleManager: Shutting down and abandoning module Kismet (422)
+[2018.05.24-21.45.26:544][296]LogModuleManager: Shutting down and abandoning module GraphEditor (420)
+[2018.05.24-21.45.26:545][296]LogModuleManager: Shutting down and abandoning module ClassViewer (418)
+[2018.05.24-21.45.26:546][296]LogModuleManager: Shutting down and abandoning module Toolbox (416)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module ModuleUI (414)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module MovieSceneTools (412)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module OutputLog (410)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module GammaUI (408)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module Documentation (406)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (404)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module MovieScene (402)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (400)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module LauncherPlatform (398)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module AnalyticsET (396)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module PortalServices (394)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module PortalRpc (392)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module MessagingRpc (390)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module AIModule (388)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module GameplayDebugger (387)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module AITestSuite (385)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module DesktopPlatform (382)
+[2018.05.24-21.45.26:547][296]LogModuleManager: Shutting down and abandoning module ProfilerService (380)
+[2018.05.24-21.45.26:663][296]LogModuleManager: Shutting down and abandoning module TaskGraph (378)
+[2018.05.24-21.45.26:663][296]LogModuleManager: Shutting down and abandoning module SteamVRController (376)
+[2018.05.24-21.45.26:663][296]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (374)
+[2018.05.24-21.45.26:663][296]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (372)
+[2018.05.24-21.45.26:663][296]LogModuleManager: Shutting down and abandoning module OculusInput (370)
+[2018.05.24-21.45.26:663][296]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (368)
+[2018.05.24-21.45.26:664][296]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (366)
+[2018.05.24-21.45.26:664][296]LogModuleManager: Shutting down and abandoning module CableComponent (364)
+[2018.05.24-21.45.26:664][296]LogModuleManager: Shutting down and abandoning module AudioCapture (362)
+[2018.05.24-21.45.26:664][296]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (360)
+[2018.05.24-21.45.26:664][296]LogModuleManager: Shutting down and abandoning module AndroidPermission (358)
+[2018.05.24-21.45.26:664][296]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (354)
+[2018.05.24-21.45.26:664][296]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (352)
+[2018.05.24-21.45.26:664][296]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (350)
+[2018.05.24-21.45.26:664][296]LogModuleManager: Shutting down and abandoning module MediaCompositing (348)
+[2018.05.24-21.45.26:664][296]LogModuleManager: Shutting down and abandoning module LinearTimecode (346)
+[2018.05.24-21.45.26:664][296]LogModuleManager: Shutting down and abandoning module ImgMedia (344)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module HTML5Networking (342)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module AlembicImporter (340)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module AlembicLibrary (339)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module GeometryCache (338)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (337)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module DatasmithContent (332)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (330)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module PluginBrowser (328)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (326)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (324)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module CryptoKeys (322)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (320)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (318)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module UObjectPlugin (316)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (314)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (312)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module GitSourceControl (310)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module SourceControl (309)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (306)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.05.24-21.45.26:667][296]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.05.24-21.45.26:668][296]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (284)
+[2018.05.24-21.45.26:668][296]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (282)
+[2018.05.24-21.45.26:668][296]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (280)
+[2018.05.24-21.45.26:668][296]LogModuleManager: Shutting down and abandoning module ApexDestruction (278)
+[2018.05.24-21.45.26:668][296]LogModuleManager: Shutting down and abandoning module ActorSequence (276)
+[2018.05.24-21.45.26:668][296]LogModuleManager: Shutting down and abandoning module UdpMessaging (274)
+[2018.05.24-21.45.26:769][296]LogModuleManager: Shutting down and abandoning module TcpMessaging (272)
+[2018.05.24-21.45.26:870][296]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (270)
+[2018.05.24-21.45.26:870][296]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (268)
+[2018.05.24-21.45.26:870][296]LogModuleManager: Shutting down and abandoning module FacialAnimation (266)
+[2018.05.24-21.45.26:870][296]LogModuleManager: Shutting down and abandoning module DataValidation (264)
+[2018.05.24-21.45.26:870][296]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (262)
+[2018.05.24-21.45.26:870][296]LogModuleManager: Shutting down and abandoning module LevelEditor (261)
+[2018.05.24-21.45.26:872][296]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (260)
+[2018.05.24-21.45.26:872][296]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (258)
+[2018.05.24-21.45.26:872][296]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2018.05.24-21.45.26:872][296]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2018.05.24-21.45.26:873][296]LogModuleManager: Shutting down and abandoning module ContentBrowser (251)
+[2018.05.24-21.45.26:876][296]LogModuleManager: Shutting down and abandoning module TreeMap (249)
+[2018.05.24-21.45.26:876][296]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (246)
+[2018.05.24-21.45.26:876][296]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (244)
+[2018.05.24-21.45.26:876][296]LogModuleManager: Shutting down and abandoning module LiveLink (242)
+[2018.05.24-21.45.27:869][296]LogModuleManager: Shutting down and abandoning module Paper2D (240)
+[2018.05.24-21.45.27:869][296]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (238)
+[2018.05.24-21.45.27:869][296]LogModuleManager: Shutting down and abandoning module WmfMedia (236)
+[2018.05.24-21.45.27:870][296]LogModuleManager: Shutting down and abandoning module Media (235)
+[2018.05.24-21.45.27:876][296]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.05.24-21.45.27:876][296]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module Overlay (224)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module OverlayEditor (223)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (220)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.05.24-21.45.27:877][296]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.05.24-21.45.27:879][296]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.05.24-21.45.27:880][296]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.05.24-21.45.27:898][296]LogDerivedDataCache: Shutdown
+[2018.05.24-21.45.27:899][296]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.05.24-21.45.27:899][296]LogXGEController: Cleaning working directory: C:/Users/gd50ian/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.24-21.45.27:899][296]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.05.24-21.45.27:899][296]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.05.24-21.45.27:899][296]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.05.24-21.45.27:899][296]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.05.24-21.45.27:899][296]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.05.24-21.45.27:899][296]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.05.24-21.45.27:899][296]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.05.24-21.45.27:900][296]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.24-21.45.27:901][296]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.24-21.45.27:901][296]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.24-21.45.27:901][296]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7E93E8C7-4DA9-DE61-716C-FBB87BBF14D7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.1-3989454%2B%2B%2BUE4%2BRelease-4.19&UserID=6fc350e04e339ad9b0b3538083cc471f%7C787c367f97364833a2916764c31cd651%7Cda1c44df-8868-4540-b9a3-097560bf3c90&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.24-21.45.27:907][296]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.24-21.45.27:909][296]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.24-21.45.27:909][296]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.24-21.45.27:910][296]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.24-21.45.27:910][296]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.24-21.45.27:910][296]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.24-21.45.27:910][296]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.24-21.45.27:910][296]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.24-21.45.27:916][296]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.24-21.45.27:916][296]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.24-21.45.27:917][296]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.24-21.45.27:917][296]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.24-21.45.27:917][296]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.24-21.45.27:917][296]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.24-21.45.27:917][296]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.24-21.45.27:917][296]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.24-21.45.27:917][296]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.24-21.45.27:917][296]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.24-21.45.27:917][296]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.24-21.45.27:928][296]LogExit: Exiting.
+[2018.05.24-21.45.27:942][296]Log file closed, 05/24/18 14:45:27
